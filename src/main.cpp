@@ -5,6 +5,6 @@ int main()
 {
 	Menu game;
 	game.runMenu();
-
+	
 	return EXIT_SUCCESS;
 }
