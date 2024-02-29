@@ -1,7 +1,7 @@
 cmake_minimum_required (VERSION 3.26)
 
 project (oop1_ex03)
-set (MY_AUTHORS "Daniel_Dalal-Tsach_Hondiashvily")
+set (MY_AUTHORS "Daniel_Dalal-Tzach_Hondiashvili")
 
 include (cmake/CompilerSettings.cmake)
 
